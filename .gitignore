@@ -138,6 +138,6 @@ dmypy.json
 cython_debug/
 
 # Other files
-SQL.ipynb
 Pipfile
 Pipfile.lock
+sql-server-connection.ipynb
